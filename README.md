@@ -1,2 +1,12 @@
 # TP-Patrones-Creacionales
-Trabajo Práctico donde aprenderemos a aplicar patrones creacionales. En la siguiente carpeta se encontrarán los patrones: Abstract Factory, Builder, Factory, Prototype y Singleton aplicados a un ejemplo en JAVA
+Trabajo Práctico donde aprenderemos a aplicar patrones creacionales. 
+## Descripción
+En la siguiente carpeta se encontrarán los patrones: Abstract Factory, Builder, Factory Method, Prototype y Singleton aplicados a un ejemplo de gestión de biblioteca en JAVA. 
+## Integrantes
+- Bastian Camila
+- Quispe Nicolás
+- Puebla Gonzalo
+- Varano Lucía
+- Nathaniel
+- Geronimo Gonzalo
+- Agustín
