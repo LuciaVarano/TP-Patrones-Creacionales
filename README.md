@@ -7,6 +7,6 @@ En la siguiente carpeta se encontrarán los patrones: Abstract Factory, Builder,
 - Quispe Nicolás
 - Puebla Gonzalo
 - Varano Lucía
-- Nathaniel
+- Herrera Nathaniel
 - Geronimo Gonzalo
-- Agustín
+- Aguilera Agustín
